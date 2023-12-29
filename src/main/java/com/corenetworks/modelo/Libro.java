@@ -1,2 +1,4 @@
-package com.corenetworks.modelo;public class Libro {
+package com.corenetworks.modelo;
+
+public class Libro {
 }
